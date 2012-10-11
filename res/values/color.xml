@@ -1,0 +1,4 @@
+<resources>
+    <color name="fixedNumber">#ff0000</color>
+    <color name="blockBackground">#000000</color>
+</resources>

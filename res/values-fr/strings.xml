@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quick-Su-Doku</string>
+    <string name="description1">« Sūji wa dokushin</string>
+    <string name="description2">ni kagiru »</string>
+    <string name="mini">Mini</string>
+    <string name="classique">Classique</string>
+    <string name="score">Score</string>
+    <string name="quitter">Quitter</string>
+
+    <string name="newGame">Nouvelle Partie</string>
+    <string name="retour">Retour</string>
+
+    <string name="valider">Valider</string>
+
+    <string name="victoire">Victoire en</string>
+    <string name="notcomplete">La grille n\'est pas complete</string>
+    <string name="not_here">Impossible d\'ajouter ce chiffre ici!</string>
+    <string name="difficulty">Difficulté</string>
+    <string name="undefined">Inconnu</string>
+    <string name="no_score">Il n\'y a pas de score enregistré</string>
+</resources>

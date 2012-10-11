@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/newGame"
+          android:title="@string/newGame"
+          android:icon="@drawable/ic_menu_play_clip">
+        <menu android:id="@+id/sousmenu">
+            <item android:id="@+id/mini"
+                  android:title="@string/mini"/>
+
+            <item android:id="@+id/classique"
+                  android:title="@string/classique"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/quitter"
+          android:icon="@drawable/ic_menu_back"
+          android:title="@string/retour"/>
+</menu>
